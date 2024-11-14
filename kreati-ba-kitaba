@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+set -eo pipefail
+
+while [[ "$#" -gt 0 ]]; do
+  case "$1" in
+    -f|--faildao) faildan="$2"; shift;;
+    -t|--failtip) failtip="$2"; shift;;
+    *) echo "Parameter $1 bu gei permiti"; exit 1;;
+  esac
+  shift
+done
+
+IFS="/"; read -a fail <<< ${faildan}; unset IFS;
+
+lingwa=${fail[1]}
+nam=${fail[2]}
+
+if [[ $failtip == "pdf" ]]; then
+  asciidoctor-pdf \
+  --theme ./${faildan}/${nam}.yml \
+  -a pdf-fontsdir=./fonts \
+  -o ./finfailes/${lingwa}/${nam}.pdf \
+  ${faildan}/${nam}.adoc
+
+  echo "Kitaba ${nam}.pdf gei kreati."
+else
+	exit 1
+fi
