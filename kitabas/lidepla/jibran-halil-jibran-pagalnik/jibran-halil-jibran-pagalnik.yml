@@ -1,0 +1,19 @@
+extends: ../.hev-wates/default-theme.yml
+
+running-content:
+  start-at: after-toc
+
+title_page:
+  background_color: #008080
+  title:
+    font_size: 100
+    font_color: #FFFFFF
+    top: 45%
+  authors:
+    font_size: 50
+    font_color: #FFFFFF
+
+heading:
+  h2_font_size: 39.81
+  h2_text_align: center
+  h2_text_decoration: underline
