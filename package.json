@@ -1,0 +1,21 @@
+{
+  "name": "kitabaguan",
+  "version": "1.0.0",
+  "description": "Tradukten kitabas inu kelke jengun-ney lingwas kreaten bay AsciiDoc e AsciiDoctor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lidepla",
+    "interlingue",
+    "interlingua",
+    "ido",
+    "esperanto",
+    "kitaba",
+    "Asciidoc",
+    "AsciiDoctor"
+  ],
+  "author": "Kristian Soto <kroyxt@gmail.com>",
+  "license": "ISC"
+}
