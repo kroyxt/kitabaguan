@@ -1,0 +1,25 @@
+extends: ../../.hev-wates/default-theme.yml
+
+running-content:
+  start-at: after-toc
+
+title_page:
+  background_color: #4B9C4B
+  font_color: #FFFFFF
+  title:
+    font_color: #FFFFFF
+    font_family: old-london
+    font_size: 100
+    top: 40%
+    margin_bottom: 20
+  authors:
+    font_color: #FFFFFF
+    margin_bottom: 130
+heading:
+  h2_font_color: #304030
+  h2_font_size: 39.81
+  h2_text_align: center
+  h2_text_decoration: underline
+footer:
+  # border_color: #DDDDDD
+  border_width: 0.5

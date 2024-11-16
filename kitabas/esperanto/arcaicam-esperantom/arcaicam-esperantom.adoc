@@ -1,26 +1,24 @@
-= arcaicam Esperantom
+= arcaicam Esperantom: Facila Gvido
++
+Ekstrakto de la originala libro kun pli da ekzemploj kaj vortprovizo.
 :doctype: book
-:title: arcaicam Esperantom
-:subtitle: Facila gvido de arcaicam Esperantom
+:email: kroyxt@gmail.com
+:title-logo-image: image:../../.hev-wates/esperanto.svg[pdfwidth=1in]
 :toc: macro
-:toc-title: Tabelom
-:table-caption: Tabelo
-:title-logo-image: image:../.hev-wates/esperanto.svg[pdfwidth=1in]
+:toc-title: Tabelom Enhawes
+:table-stripes: even
 
-[colophon]
-[discrete]
-== Pagalnik
-Titla:: arcaicam Esperantom
-Autor:: Jibran Halil Jibran
-Datum:: 2024
-Datum de tradukting:: Mes-char 2024
-Lisensa:: "Pagalnik © 2024 bay Kristian Soto es lisensen bay CC BY-NC 4.0"
+[colophon, discrete]
+== {doctitle}
+Titolo:: {doctitle}
+Dato:: 2024
+Aŭtoro:: Kristian Soto
+Licenco:: "{doctitle} © 2024 bay Kristian Soto es lisensen bay CC BY-NC 4.0"
 
 toc::[]
 
 == Ortografio
 
-.Ortografio
 [cols="^1,^1,^1"]
 |===
 | Esperanto | arcaicam Esperantom | Prononco
@@ -62,7 +60,6 @@ estas deklinaciataj. Fremda propra nomo aŭ titolo restas senŝanĝa, sed ĝi po
 ricevi la novan prepozicion no kiu anstataŭige ricevas la koncernan deklinacian
 sufikson:
 
-.Deklinacioj
 [%autowidth%header,cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -75,7 +72,6 @@ sufikson:
 
 === Nominativo
 
-.Nominativo
 [cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -87,7 +83,6 @@ sufikson:
 La nominativo je **–m** aplikiĝas kiel kutime, por subjekta substantivo kaj
 adjektivo. Ĝi malaperas en kunmetaĵo:
 
-.Nominativo
 [cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -98,7 +93,6 @@ adjektivo. Ĝi malaperas en kunmetaĵo:
 
 === Akusativo
 
-.Akusativo
 [cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -109,7 +103,6 @@ adjektivo. Ĝi malaperas en kunmetaĵo:
 
 La akuzativo je **–n** estas uzata kiel kutime, por senpera komplemento:
 
-.Akusativo
 [cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -119,7 +112,6 @@ La akuzativo je **–n** estas uzata kiel kutime, por senpera komplemento:
 
 === Genitivo
 
-.Genitivo
 [cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -131,7 +123,6 @@ La akuzativo je **–n** estas uzata kiel kutime, por senpera komplemento:
 La genitivo je **–es** aplikiĝas, jen anstataŭ la prepozicio **del** jen post
 ĝi:
 
-.Genitivo
 [cols="1,1"]
 |===
 | Esperanto                    | arcaicam Esperantom
@@ -142,7 +133,6 @@ La genitivo je **–es** aplikiĝas, jen anstataŭ la prepozicio **del** jen pos
 
 === Dativo
 
-.Dativo
 [cols="1,1"]
 |===
 | Esperanto | arcaicam Esperantom
@@ -154,7 +144,6 @@ La genitivo je **–es** aplikiĝas, jen anstataŭ la prepozicio **del** jen pos
 La dativo je **–d** aperas ĉe direkta akuzativo, kondiĉe ke tiu aperas en la
 aktuala lingvo, sed ankaŭ post **grez** kaj **malgrez**:
 
-.Dativo
 [cols="1,1"]
 |===
 | Esperanto         | arcaicam Esperantom
