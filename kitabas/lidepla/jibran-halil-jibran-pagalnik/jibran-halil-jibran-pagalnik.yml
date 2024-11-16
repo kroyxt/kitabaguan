@@ -1,10 +1,11 @@
-extends: ../.hev-wates/default-theme.yml
+extends: ../../.hev-wates/default-theme.yml
 
 running-content:
   start-at: after-toc
 
 title_page:
   background_color: #008080
+  font_color: #FFFFFF
   title:
     font_size: 100
     font_color: #FFFFFF
@@ -12,7 +13,7 @@ title_page:
   authors:
     font_size: 50
     font_color: #FFFFFF
-
+    margin_bottom: 170
 heading:
   h2_font_size: 39.81
   h2_text_align: center

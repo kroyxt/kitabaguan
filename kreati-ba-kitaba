@@ -19,8 +19,9 @@ nam=${fail[2]}
 if [[ $failtip == "pdf" ]]; then
   asciidoctor-pdf \
   --theme ./${faildan}/${nam}.yml \
-  -a pdf-fontsdir=./fonts \
+  -a pdf-fontsdir=./kitabas/.fonts \
   -o ./finfailes/${lingwa}/${nam}.pdf \
+  --trace \
   ${faildan}/${nam}.adoc
 
   echo "Kitaba ${nam}.pdf gei kreati."

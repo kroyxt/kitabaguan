@@ -1,21 +1,21 @@
 = Pagalnik
+Jibran Halil Jibran
+Tradukten a Lidepla bay Kristian Soto
 :doctype: book
-:title: Pagalnik
-:author: Jibran Halil Jibran
+:email: kroyxt@gmail.com
 :toc: macro
 :toc-title: Tabela de kontena
-:title-logo-image: image:../.hev-wates/lidepla.svg[pdfwidth=1in]
+:title-logo-image: image:../../.hev-wates/lidepla.svg[pdfwidth=1in]
 
-[colophon]
-[discrete]
-== Pagalnik
-Titla:: Pagalnik
+[colophon, discrete]
+== {doctitle}
+Titla:: {doctitle}
 Originale Titla:: The Madman
-Autor:: Jibran Halil Jibran
+Autor:: Kristian Soto
 Datum:: 1918
-Tradukter:: Kristian Soto
+Tradukter:: {tradukter}
 Datum de tradukting:: Mes-char 2024
-Lisensa:: "Pagalnik © 2024 bay Kristian Soto es lisensen bay CC BY-NC 4.0"
+Lisensa:: "{doctitle} © 2024 bay Kristian Soto es lisensen bay CC BY-NC 4.0"
 
 toc::[]
 
