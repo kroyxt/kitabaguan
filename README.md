@@ -8,5 +8,8 @@ Tradukten kitabas in kelke jengun-ney lingwas kreaten bay Asciidoc e Asciidoctor
 
 ### Lidepla
 
-- Jibran Halil Jibran - Pagalnik ([pdf](./finfailes/lidepla/jibran-halil-jibran-pagalnik.pdf))
+- Jibran Halil Jibran - Pagalnik ([pdf](./finfailes/lidepla/jibran-halil-jibran-pagalnik.pdf?raw=true))
 
+### Esperanto
+
+- arcaicam Esperantom ([pdf](./finfailes/esperanto/arcaicam-esperantom.pdf?raw=true))
