@@ -11,9 +11,9 @@ Tradukten a Lidepla bay Kristian Soto
 == {doctitle}
 Titla:: {doctitle}
 Originale Titla:: The Madman
-Autor:: Kristian Soto
+Autor:: {author}
 Datum:: 1918
-Tradukter:: {tradukter}
+Tradukter:: Kristian Soto
 Datum de tradukting:: Mes-char 2024
 Lisensa:: "{doctitle} © 2024 bay Kristian Soto es lisensen bay CC BY-NC 4.0"
 
